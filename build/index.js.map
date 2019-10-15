@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/index.js"],"names":["foo"],"mappings":";;;;;;AAAA,IAAMA,GAAG;AAAA;AAAA;AAAA;AAAA;AAAA,0BAAG;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA,mBACD;AAAA,qBAAI,IAAJ;AAAA,aAAD,EADE;;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA,GAAH;;AAAA,kBAAHA,GAAG;AAAA;AAAA;AAAA,GAAT","sourcesContent":["const foo = async ()=>{\n    await (()=>true)()\n}"],"file":"index.js"}
